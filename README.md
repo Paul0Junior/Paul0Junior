@@ -11,7 +11,7 @@ Olá! Eu sou o Paulo
  ##
     
  <div>
-     <a href="http://www.linkedin.com/in/juniorpaulo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="http://www.linkedin.com/in/juniorpaulo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" target="_blank"></a>
     </div>
     
   
