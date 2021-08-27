@@ -1,7 +1,7 @@
 Olá! Eu sou o Paulo
 - Atualmente trabalho como analista MIS 📊
 - Estudo Tecnologia em Análise e Desenvolvimento de Sistemas 👨‍💻
-- Focando atualmente no desenvolvimento Web web 👩‍💻
+- Focando atualmente em desenvolvimento Web 👩‍💻
 
 <div>
     <a href="https://github.com/Paul0Junior">
